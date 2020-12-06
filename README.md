@@ -1,5 +1,6 @@
 # DAPPL
-Script repository for DAPPL
+Script repository for DAPPL.
+The R packages used include Biostrings_2.50.2, seqinr_3.4-5, GenomicRanges_1.34.0, ggseqlogo_0.1. The known motif database is CIS-BP 2.00. 
 ## Introduction
 This is not a complete executable software.This repository contains the key code for analyzing DAPPL.
 ## Analysis process
